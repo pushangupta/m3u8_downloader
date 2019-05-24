@@ -11,7 +11,7 @@ Simply copy the python file in your working directory, then in terminal call.
 
 > Requires wget  ``` brew install wget --with-libressl  ```  on macOs
 
-or ``` sudo apt install wget ``` on linux
+> or ``` sudo apt install wget ``` on linux
 
 ## Options
 
