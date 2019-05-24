@@ -33,7 +33,7 @@ Simply copy the python file in your working directory, then in terminal call
 Pull requests, suggestions and issues are most welcome :)
 
 
-###Important note: 
+### Important note: 
 Please make sure that the m3u8 file you provide has a single resolution format.
 
 If your file contains multiple resolutions, you may want to remove them manually. 
