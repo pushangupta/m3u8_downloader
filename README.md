@@ -5,9 +5,13 @@ Currently supports Unix.
 
 ## Installation
 
-Simply copy the python file in your working directory, then in terminal call 
+Simply copy the python file in your working directory, then in terminal call.
 
 ``` python3 m3u8_downloader.py -p "https://somedomain.com/somelink/temp.m3u8"```
+
+> Requires wget  ``` brew install wget --with-libressl  ```  on macOs
+
+or ``` sudo apt install wget ``` on linux
 
 ## Options
 
